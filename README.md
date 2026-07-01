@@ -1,6 +1,6 @@
 # Detecção de Trincas e Fissuras em Paredes
 
-**Sistema de inspeção automatizada com segmentação de instância** — Desafio 2 do Programa de Residência em Inteligência Artificial (UNISENAI 2026).
+Sistema de visão computacional para detecção e segmentação automática de trincas e fissuras em paredes, apoiando inspeção de qualidade na construção civil. Desenvolvido como parte do Programa de Residência em IA — UNISENAI 2026..
 
 Autor: **Daniel Tavares de França**
 
