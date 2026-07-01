@@ -1,6 +1,6 @@
 # Detecção de Trincas e Fissuras em Paredes
 
-Sistema de visão computacional para detecção e segmentação automática de trincas e fissuras em paredes, apoiando inspeção de qualidade na construção civil. Desenvolvido como parte do Programa de Residência em IA — UNISENAI 2026..
+Sistema de visão computacional para detecção e segmentação automática de trincas e fissuras em paredes, apoiando inspeção de qualidade na construção civil. Desenvolvido como projeto prático do Bootcamp de Ciência de Dados e IA — SENAI/SC 2026.
 
 Autor: **Daniel Tavares de França**
 
